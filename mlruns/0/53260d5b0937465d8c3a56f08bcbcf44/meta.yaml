@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/test1234/mlruns/0/53260d5b0937465d8c3a56f08bcbcf44/artifacts
+end_time: 1732118943888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53260d5b0937465d8c3a56f08bcbcf44
+run_name: intelligent-pug-751
+run_uuid: 53260d5b0937465d8c3a56f08bcbcf44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732118943849
+status: 3
+tags: []
+user_id: vscode

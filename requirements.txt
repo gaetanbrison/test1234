@@ -1,0 +1,7 @@
+mlflow
+streamlit
+pandas
+numpy
+scikit-learn
+dagshub
+streamlit-shadcn-ui
